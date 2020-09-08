@@ -47,4 +47,4 @@ app.use(session({
 }));
 app.set('view engine', 'ejs');
 app.set('trust proxy', 1);
-app.set('x-powered-by', 'Rebel-IST');
+app.set('x-powered-by', 'Hamsters & Guinea Pigs');
